@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/easycalc-146202-6726090b/easycalc_frontend"
+}
